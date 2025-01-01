@@ -1,0 +1,178 @@
+#main {
+    padding: 96px;
+    text-align: center;
+    background: #E4EBFF;
+}
+
+h1 {
+    color: #6941C6;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+h2 {
+    color: #181D27;
+    text-align: center;
+    font-family: "Inknut Antiqua";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: -0.8px;
+}
+
+#mainfirst {
+    width: 1288px;
+    padding: var(--spacing-9xl, 96px) 0px;
+    flex-direction: column;
+    align-items: center;
+    background: #FFF;
+
+}
+
+#inboxes {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    display: block;
+
+}
+
+#pirveli {
+
+    text-align: left;
+    margin-left: 32px;
+    float: left;
+}
+
+ul {
+
+    list-style-type: none;
+
+}
+
+ul>li {
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+li {
+    text-align: left;
+}
+
+#statistics {
+    display: inline-block;
+    width: 700px;
+
+
+}
+
+
+#first {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 0fr;
+
+}
+
+
+
+
+
+#mainsecond {
+    width: 1288px;
+    padding: var(--spacing-9xl, 96px) 0px;
+    flex-direction: column;
+    align-items: center;
+    background: #FFF;
+
+}
+
+#deliver {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    display: block;
+
+}
+
+#meore {
+
+    text-align: left;
+    margin-left: 32px;
+    float: right;
+}
+
+#statisticssecond {
+    display: inline-block;
+    width: 700px;
+
+
+}
+
+
+#second {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 0fr;
+
+}
+
+
+
+#mainthird {
+    width: 1288px;
+    padding: var(--spacing-9xl, 96px) 0px;
+    flex-direction: column;
+    align-items: center;
+    background: #FFF;
+
+}
+
+#manage {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;
+    display: block;
+
+}
+
+#mesame {
+
+    text-align: left;
+    margin-left: 32px;
+    float: left;
+}
+
+
+#statistics {
+    display: inline-block;
+    width: 700px;
+
+
+}
+
+
+#third {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr 0fr;
+
+}
